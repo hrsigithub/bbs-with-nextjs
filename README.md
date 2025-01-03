@@ -39,6 +39,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 掲示板Webアプリケーション
 https://www.youtube.com/watch?v=8b6iqmo_2Os&t=1047s
 
+https://github.com/Shin-sibainu/bbs-with-nextjs
+
 
 ✔ What is your project named? … bbs-with-nextjs
 ✔ Would you like to use TypeScript? … Yes
@@ -49,3 +51,11 @@ https://www.youtube.com/watch?v=8b6iqmo_2Os&t=1047s
 ✔ Would you like to use Turbopack for `next dev`? … No
 ✔ Would you like to customize the import alias (`@/*` by default)? … Yes
 ✔ What import alias would you like configured? … @/*
+
+------
+shadcn
+https://ui.shadcn.com/
+
+npx shadcn@latest init
+npx shadcn@latest add card
+

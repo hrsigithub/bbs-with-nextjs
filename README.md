@@ -59,3 +59,20 @@ https://ui.shadcn.com/
 npx shadcn@latest init
 npx shadcn@latest add card
 
+Supabase
+https://supabase.com/
+
+DB PASS
+bbs-with-nextjs
+
+Prisma
+https://www.prisma.io/?via=start
+
+Nodeバージョン注意　LTSインスコ
+npm i -D prisma
+npm i @prisma/client
+
+マイグレーション
+npx prisma migrate dev --name init
+
+

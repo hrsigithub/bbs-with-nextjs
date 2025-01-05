@@ -58,6 +58,10 @@ https://ui.shadcn.com/
 
 npx shadcn@latest init
 npx shadcn@latest add card
+npx shadcn@latest add form
+npx shadcn@latest add input
+npx shadcn@latest add button
+npx shadcn@latest add textarea
 
 Supabase
 https://supabase.com/

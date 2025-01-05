@@ -6,3 +6,13 @@ export async function GET() {
 
   return NextResponse.json(allBBSPosts);
 }
+
+// export async function POST(req: Request) {
+//   const { username, title, content } = await req.json();
+
+//   const post = await prisma.post.create({
+//     data: { username, title, content },
+//   });
+
+//   return NextResponse.json(post);
+// }
